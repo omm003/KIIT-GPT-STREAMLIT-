@@ -1,0 +1,801 @@
+================================================================================
+KIIT (Kalinga Institute of Industrial Technology)
+Q&A Chatbot Training Dataset
+================================================================================
+
+Q1: What is KIIT?
+A1: KIIT (Kalinga Institute of Industrial Technology) is a private deemed university located in Bhubaneswar, Odisha, India. It was founded in 1992 by Dr. Achyuta Samanta and received university status in 2004.
+--------------------------------------------------------------------------------
+
+Q2: When was KIIT established?
+A2: KIIT was established in 1992 as an Industrial Training Institute with only twelve students and two faculty members. It received deemed university status in 2004.
+--------------------------------------------------------------------------------
+
+Q3: Who is the founder of KIIT?
+A3: KIIT was founded by Prof. Achyuta Samanta in 1992. He started both KIIT and KISS (Kalinga Institute of Social Sciences) with just Rs 5000 in his pocket.
+--------------------------------------------------------------------------------
+
+Q4: Where is KIIT located?
+A4: KIIT is located in Bhubaneswar, Odisha, India. The main campus is at Patia, Bhubaneswar, 751024.
+--------------------------------------------------------------------------------
+
+Q5: What is the campus size of KIIT?
+A5: KIIT campus is spread across 8,900 acres (36 square kilometers) with multiple campuses. It has modern architecture blending with natural beauty.
+--------------------------------------------------------------------------------
+
+Q6: What is KIIT's motto?
+A6: KIIT's motto is 'Sā Vidyā Yā Vimuktayē' which means 'Knowledge is that which liberates' in Sanskrit.
+--------------------------------------------------------------------------------
+
+Q7: How many students study at KIIT?
+A7: KIIT has over 40,000 students, including approximately 30,000 from all over India and around 2,000 international students from 65 countries.
+--------------------------------------------------------------------------------
+
+Q8: How many faculty members does KIIT have?
+A8: KIIT has over 3,000 faculty members and researchers, along with 15,000 staff members across all schools.
+--------------------------------------------------------------------------------
+
+Q9: What is KIIT's NIRF ranking 2025?
+A9: In NIRF 2025, KIIT ranked 17th among universities in India, 27th in the overall category, 36th in engineering, and 43rd in research institutions.
+--------------------------------------------------------------------------------
+
+Q10: What is KIIT's QS ranking?
+A10: KIIT is ranked in the 1001-1200 band in QS World University Rankings 2026, and 257th in QS Asia Rankings 2025. It is ranked 55th in QS Asian University Rankings - Southern Asia.
+--------------------------------------------------------------------------------
+
+Q11: What is KIIT's Times Higher Education ranking?
+A11: KIIT is ranked in the 501-600 cohort in Times Higher Education World University Rankings 2026, and 184th in THE Asia University Rankings 2025.
+--------------------------------------------------------------------------------
+
+Q12: What is KIIT's NAAC grade?
+A12: KIIT has been accredited with A++ Grade by NAAC (National Assessment and Accreditation Council).
+--------------------------------------------------------------------------------
+
+Q13: What awards has KIIT received?
+A13: KIIT was ranked No. 1 by ARIIA (Atal Ranking of Institutions on Innovation Achievements) 2021 among private universities. It received THE Awards Asia for Leadership and Management Team of the Year. KIIT is India's first QS 5 Stars rated university.
+--------------------------------------------------------------------------------
+
+Q14: How many courses does KIIT offer?
+A14: KIIT offers 243 courses across 265 programs at UG, PG, and doctoral levels through 26 constituent schools in various disciplines.
+--------------------------------------------------------------------------------
+
+Q15: What are the popular courses at KIIT?
+A15: Popular courses include B.Tech (especially Computer Science, Aerospace Engineering), MBA, MCA, MBBS, M.Tech, B.Sc Nursing, BBA, and BCA.
+--------------------------------------------------------------------------------
+
+Q16: What B.Tech specializations are available at KIIT?
+A16: KIIT offers B.Tech in 25 specializations including Computer Science & Engineering, AI & ML, Cyber Security, Data Science, IoT, Mechanical, Civil, Electrical, Electronics, Aerospace, and Chemical Engineering.
+--------------------------------------------------------------------------------
+
+Q17: Does KIIT offer MBA programs?
+A17: Yes, KIIT offers MBA programs through KIIT School of Management with specializations in Marketing, Finance, Human Resources, Agribusiness, Rural Management, Business Analytics, Healthcare Management, and Supply Chain Management.
+--------------------------------------------------------------------------------
+
+Q18: What is the duration of B.Tech at KIIT?
+A18: The B.Tech program at KIIT is a 4-year undergraduate program. KIIT also offers B.Tech lateral entry (3 years) and dual degree B.Tech + M.Tech (5 years) programs.
+--------------------------------------------------------------------------------
+
+Q19: Does KIIT offer medical courses?
+A19: Yes, KIIT offers MBBS through Kalinga Institute of Medical Sciences (KIMS), BDS through Dental Sciences, B.Sc Nursing, MD, MDS, and various other medical programs.
+--------------------------------------------------------------------------------
+
+Q20: What law courses are available at KIIT?
+A20: KIIT School of Law offers BA LLB (5 years), BBA LLB (5 years), B.Sc LLB (5 years), and LLM programs.
+--------------------------------------------------------------------------------
+
+Q21: What is KIITEE?
+A21: KIITEE (KIIT Entrance Examination) is the All India entrance examination conducted by KIIT for admission to various undergraduate and postgraduate courses except MBBS, BDS, and PG Medical/Dental courses.
+--------------------------------------------------------------------------------
+
+Q22: Is there any application fee for KIITEE?
+A22: No, there is no application fee required for the KIITEE examination.
+--------------------------------------------------------------------------------
+
+Q23: What is the duration of KIITEE exam?
+A23: The KIITEE exam duration is 2 hours and 30 minutes (150 minutes).
+--------------------------------------------------------------------------------
+
+Q24: What is the exam pattern for KIITEE B.Tech?
+A24: KIITEE B.Tech exam consists of 120 multiple choice questions (40 each in Physics, Chemistry, and Mathematics). Each correct answer carries 4 marks with negative marking of -1 for wrong answers. Total marks: 480.
+--------------------------------------------------------------------------------
+
+Q25: What is the eligibility for B.Tech admission at KIIT?
+A25: Candidates who have passed 10+2 examination in 2023, 2024, or appearing in 2025 with Physics, Chemistry, and Mathematics (60% aggregate) are eligible for B.Tech at KIIT.
+--------------------------------------------------------------------------------
+
+Q26: Does KIIT accept JEE Main scores?
+A26: Yes, KIIT considers KIITEE scores primarily, but students can also apply based on their JEE Main scores for B.Tech admissions.
+--------------------------------------------------------------------------------
+
+Q27: What is the admission process for MBBS at KIIT?
+A27: For MBBS admission at KIIT, candidates need to qualify NEET examination and participate in the counselling process as per NEET scores.
+--------------------------------------------------------------------------------
+
+Q28: What is the B.Tech fee at KIIT?
+A28: B.Tech fees at KIIT range from INR 14.83 Lakhs to 19.83 Lakhs for the complete 4-year duration, depending on the specialization.
+--------------------------------------------------------------------------------
+
+Q29: What is the B.Tech CSE fee at KIIT?
+A29: B.Tech Computer Science & Engineering fee at KIIT is INR 18.51 Lakhs for 4 years (approximately INR 2.22 Lakhs per semester).
+--------------------------------------------------------------------------------
+
+Q30: What is the MBA fee at KIIT?
+A30: MBA fee at KIIT is INR 13.9 Lakhs for the complete 2-year program.
+--------------------------------------------------------------------------------
+
+Q31: What is the MCA fee at KIIT?
+A31: MCA program fee at KIIT is INR 5.63 Lakhs for 2 years.
+--------------------------------------------------------------------------------
+
+Q32: What is the MBBS fee at KIIT?
+A32: MBBS fee at KIIT is INR 74.91 Lakhs for the complete program duration.
+--------------------------------------------------------------------------------
+
+Q33: What is the hostel fee at KIIT?
+A33: The annual hostel fee at KIIT is INR 80,000. There is a one-time hostel admission fee of INR 15,000 to be paid on the day of reporting.
+--------------------------------------------------------------------------------
+
+Q34: What is the placement record of KIIT?
+A34: In 2024, over 700 companies visited KIIT and made 5,585+ job offers. The overall placement rate was 83.06%. The highest package offered was INR 53 LPA by YugaByte.
+--------------------------------------------------------------------------------
+
+Q35: What is the average package at KIIT?
+A35: The average package for B.Tech at KIIT is INR 8.5 LPA for dream offers (top 1,500 students). For MBA, the average package is INR 9 LPA.
+--------------------------------------------------------------------------------
+
+Q36: What is the highest package at KIIT?
+A36: The highest package at KIIT in 2024 was INR 53 LPA offered by YugaByte. For MBA, the highest package was INR 19.35 LPA.
+--------------------------------------------------------------------------------
+
+Q37: Which companies recruit from KIIT?
+A37: Top recruiters at KIIT include Amazon, Deloitte, TCS, Capgemini, HighRadius, Accenture, Wipro, Infosys, Microsoft, DE Shaw & Co, McKinsey, Salesforce, Dell Technologies, TATA Power, Jindal Steel, and Bharucha & Partners.
+--------------------------------------------------------------------------------
+
+Q38: What is the placement percentage at KIIT?
+A38: KIIT reported an overall placement rate of 83.06% in 2024. For B.Tech School of Technology, more than 3,125 offers were made with 1,500 dream offers.
+--------------------------------------------------------------------------------
+
+Q39: What hostel facilities are available at KIIT?
+A39: KIIT has 55+ hostels including King's Palace (KP) for boys and Queen's Castle (QC) for girls. Facilities include AC/non-AC rooms, double/triple sharing options, 24-hour internet, reading rooms, mess, and dining facilities.
+--------------------------------------------------------------------------------
+
+Q40: What is the hostel check-in time at KIIT?
+A40: The hostel check-in time at KIIT is 6:00 PM. Students need to return to hostels before this time on regular days.
+--------------------------------------------------------------------------------
+
+Q41: Tell me about KIIT library facilities
+A41: KIIT Central Library is an 8-storied building spread over 10,000 sq.m. It has over 1,018,434 books, 16,806 bound volumes, 665 current print journals, and access to 17 e-databases with 12,000+ e-journals. The library is accessible 24/7 through the web portal.
+--------------------------------------------------------------------------------
+
+Q42: What sports facilities are available at KIIT?
+A42: KIIT has a 29-acre stadium with 40,000 seating capacity, Biju Patnaik Indoor Stadium, 12 sports complexes with swimming pools, facilities for cricket (turf wicket), hockey (astroturf), football, rugby, basketball, badminton, volleyball, and over 25 other sports.
+--------------------------------------------------------------------------------
+
+Q43: What is the food quality in KIIT hostels?
+A43: KIIT hostel mess provides both vegetarian and non-vegetarian food options (non-veg up to 4 times a week). The menu includes Odia, South Indian, Chinese, and Continental dishes. The menu is revised every 4-5 months.
+--------------------------------------------------------------------------------
+
+Q44: What research facilities are available at KIIT?
+A44: KIIT has a Central Research Facility (CRF) with 25 laboratories, Central Advanced Research Centre (CARC) on 1.2 lakh sq.ft., and 18+ Centers of Excellence including ISRO-KIIT Satellite Centre, NI Centre of Excellence, and IoT Centre of Excellence.
+--------------------------------------------------------------------------------
+
+Q45: Does KIIT have a Technology Business Incubator?
+A45: Yes, KIIT Technology Business Incubator (KIIT-TBI) was established in 2009. It has nurtured over 482 startups, commercialized 153+ products, created 10,000+ jobs, generated 210+ IPs, and helped raise INR 1,600 Cr in funding.
+--------------------------------------------------------------------------------
+
+Q46: What is KIIT's research output?
+A46: As of June 2024, KIIT had over 12,750 research papers with 141,000+ citations in Scopus (h-index 117), and 7,900+ papers with 96,950 citations in Web of Science (h-index 96). The institute is working on 130+ funded research projects worth INR 135 Crores.
+--------------------------------------------------------------------------------
+
+Q47: Has KIIT-TBI won any awards?
+A47: Yes, KIIT-TBI won the National Award for Technology Business Incubation in 2017, National IPR Award 2021 for Best Incubator, and the Incubator of the Year 2023 Award by the Asian Association of Business Incubation.
+--------------------------------------------------------------------------------
+
+Q48: What student societies are available at KIIT?
+A48: KIIT has various student societies including Korus (Music & Dance), Kalakaar (Drama), Kreative Eye (Photography), Qutopia (Quizzing), Kronicle (Literary), Konnexions (IT & Web), Model UN, Entrepreneurship Cell, SPIC MACAY, Enactus, and Rotaract.
+--------------------------------------------------------------------------------
+
+Q49: Does KIIT organize any festivals?
+A49: Yes, KIIT organizes KIIT FEST, a 3-day annual techno-cultural festival (one of Eastern India's largest), Kalinga Global Film Festival, and KI3 Fest (Idea, Innovation, and Impact).
+--------------------------------------------------------------------------------
+
+Q50: What is KSAC at KIIT?
+A50: KSAC (KIIT Student Activity Centre) is the hub for all co-curricular activities, clubs, and student societies at KIIT. It helps students continue with activities like singing, dancing, poetry, writing, and much more.
+--------------------------------------------------------------------------------
+
+Q51: Are international students present at KIIT?
+A51: Yes, KIIT has a truly multicultural campus with over 2,000 international students from 65 countries. There is a dedicated KIIT International Student Society to help international students.
+--------------------------------------------------------------------------------
+
+Q52: What scholarships does KIIT offer?
+A52: KIIT offers KIITEE Merit Scholarship (free education for topper, INR 10,000/month for top 1000), Merit Scholarship (INR 10,000/7,000/5,000 for top 3 GPA holders), Teaching Assistantship, PhD Scholarship (INR 20,000/month), and various need-based scholarships.
+--------------------------------------------------------------------------------
+
+Q53: What is KIITEE Merit Scholarship?
+A53: Students securing rank under 1000 in KIITEE are eligible for INR 10,000 per month scholarship for the entire study duration, subject to maintaining certain CGPA and attendance. The KIITEE topper gets free education.
+--------------------------------------------------------------------------------
+
+Q54: Does KIIT offer scholarships for economically disadvantaged students?
+A54: Yes, KIIT offers Tuition Fee Waiver Scheme (TFW) for BPL card holders (up to 5% seats), Poverty-cum-Merit scholarships, and special scholarships for SC/ST students covering up to 100% tuition fees.
+--------------------------------------------------------------------------------
+
+Q55: Are there government scholarships available at KIIT?
+A55: Yes, students can apply for various central and state government scholarships including Post Matric Scholarships (ST/SC/OBC), e-Medhabruti, Central Sector Schemes, AICTE Pragati/Saksham scholarships, and UGC NET-JRF.
+--------------------------------------------------------------------------------
+
+Q56: Does KIIT offer international student scholarships?
+A56: Yes, KIIT offers KIIT University India Scholarships Programme (KUISP) providing 100% tuition fee scholarships for international students. 2 students from each country get full waiver and 10 get half tuition waiver (100 scholarships total).
+--------------------------------------------------------------------------------
+
+Q57: How many schools does KIIT have?
+A57: KIIT has 26 constituent schools offering programs in Engineering, Management, Medical Sciences, Law, Biotechnology, Rural Management, Applied Sciences, Fashion Technology, Film & Media, and other disciplines.
+--------------------------------------------------------------------------------
+
+Q58: What is KIIT School of Management known for?
+A58: KIIT School of Management (KSOM) offers MBA programs with 10 specializations. In 2024, 170+ companies visited with highest package of INR 19.35 LPA and average of INR 9 LPA. It has received multiple recognitions as a top management school.
+--------------------------------------------------------------------------------
+
+Q59: Tell me about KIIT School of Law
+A59: KIIT School of Law offers BA LLB, BBA LLB, B.Sc LLB (5 years), and LLM programs. In 2024, 65+ law firms visited with highest package of INR 10.2 LPA and average of INR 5 LPA. 67% placement rate was achieved.
+--------------------------------------------------------------------------------
+
+Q60: What is KIIT School of Rural Management?
+A60: KIIT School of Rural Management (KSRM) was established in 2007, offering MBA in Rural Management. In 2024, 68 companies visited with highest package of INR 18 LPA, average of INR 6 LPA, and 100% placement rate.
+--------------------------------------------------------------------------------
+
+Q61: Does KIIT have international partnerships?
+A61: Yes, KIIT has partnerships with over 162 universities worldwide across 65 countries, offering student exchange programs, joint research, global internships, and credit-based study abroad programs.
+--------------------------------------------------------------------------------
+
+Q62: What international exposure does KIIT provide?
+A62: KIIT offers Foreign Exchange Programs, India Trek for international students, internship programs with Indian industries, and opportunities to attend international conferences and seminars.
+--------------------------------------------------------------------------------
+
+Q63: What laboratories are available at KIIT?
+A63: KIIT has specialized labs including Design Thinking Lab, CIM Mechatronics & Robotics Lab, Mercedes Benz Automotive Lab, Thin Film Photovoltaic Lab, Wireless Communication Lab, SKF-KIIT Advanced Reliability Centre, and Green Engine Technology Centre.
+--------------------------------------------------------------------------------
+
+Q64: Does KIIT have Wi-Fi facility?
+A64: Yes, KIIT provides round-the-clock high-speed Wi-Fi connectivity across all campuses, hostels, and academic buildings.
+--------------------------------------------------------------------------------
+
+Q65: What is the classroom infrastructure at KIIT?
+A65: KIIT has spacious, air-conditioned smart classrooms equipped with modern teaching aids, projectors, and audio-visual systems.
+--------------------------------------------------------------------------------
+
+Q66: What restaurants are near KIIT?
+A66: Near KIIT campus, there are multiple food courts, cafeterias, and restaurants serving Odia, South Indian, Chinese, and Continental cuisines. Popular areas include KIIT Road, Infocity Khao Gali, and Damana Chowk with various street food and dining options.
+--------------------------------------------------------------------------------
+
+Q67: Are there pubs or cafes near KIIT?
+A67: Yes, there are several gastropubs, cafes, and restaurants near KIIT campus area including Cabana (Terrace Lounge), ADDA Cafe, Richard's Kitchen & Coffee Bar, and various food courts on KIIT Road.
+--------------------------------------------------------------------------------
+
+Q68: What is the nearest airport to KIIT?
+A68: The nearest airport is Biju Patnaik International Airport, Bhubaneswar, which is approximately 15-20 km from KIIT campus.
+--------------------------------------------------------------------------------
+
+Q69: What is the nearest railway station to KIIT?
+A69: The nearest railway station is Bhubaneswar Railway Station, which is approximately 10-12 km from KIIT campus.
+--------------------------------------------------------------------------------
+
+Q70: Are KIIT alumni successful?
+A70: Yes, KIIT has produced successful alumni working in top positions at companies like Reliance, HDFC, TCS, Microsoft, and many have become entrepreneurs. Notable alumni include Preeti Kumari (IES Rank 2), and multiple CEOs and senior executives.
+--------------------------------------------------------------------------------
+
+Q71: What support does KIIT provide to entrepreneurs?
+A71: KIIT provides Entrepreneurship Cell, KIIT-TBI incubation facilities, mentorship, funding opportunities through government schemes, IP registration assistance, and networking with investors and industry experts.
+--------------------------------------------------------------------------------
+
+Q72: Tell me about KIIT's founder Dr. Achyuta Samanta
+A72: Prof. Achyuta Samanta founded KIIT and KISS in 1992-93 with just Rs 5,000. Born in poverty in a remote Odisha village, he lost his father at age 4. Despite struggles, he persevered and created institutions serving 40,000+ KIIT students and 80,000 tribal students at KISS, all providing free education.
+--------------------------------------------------------------------------------
+
+Q73: What is KISS?
+A73: KISS (Kalinga Institute of Social Sciences) is a fully residential institution founded by Dr. Achyuta Samanta providing free education, healthcare, sports, and vocational training to 80,000 disadvantaged tribal students. It's the first and only university exclusively for tribal scholars.
+--------------------------------------------------------------------------------
+
+Q74: What is Art of Giving?
+A74: Art of Giving is a philosophy propagated by Dr. Achyuta Samanta aimed at bringing peace and happiness globally through the concept of giving and sharing. It was launched in 2013.
+--------------------------------------------------------------------------------
+
+Q75: What is KIIT's official website?
+A75: KIIT's official website is www.kiit.ac.in. For admissions, visit kiitee.kiit.ac.in.
+--------------------------------------------------------------------------------
+
+Q76: What is the KIIT admission helpline?
+A76: KIIT admission helpline numbers are 8080 735 735, and 0674-2741747. For international admissions: +91 9873666072. Email: admission@kiit.ac.in
+--------------------------------------------------------------------------------
+
+Q77: What is the 24x7 student helpline at KIIT?
+A77: The 24x7 student helpline number at KIIT is 91-8093010563.
+--------------------------------------------------------------------------------
+
+Q78: What is KIIT's address?
+A78: KIIT Deemed to be University, Patia, Bhubaneswar, Odisha, India - 751024.
+--------------------------------------------------------------------------------
+
+Q79: What specializations are available in B.Tech CSE at KIIT?
+A79: B.Tech CSE specializations at KIIT include: Computer Science & Engineering, CSE with AI, CSE with Cyber Security, CSE with Data Science, CSE with IoT, CSE with AI & ML, Computer Science & Communication Engineering, and Computer Science & Systems Engineering.
+--------------------------------------------------------------------------------
+
+Q80: Does KIIT offer dual degree programs?
+A80: Yes, KIIT offers dual degree programs including B.Tech + M.Tech (5 years) in Biotechnology, and B.Tech + MBA programs in various engineering disciplines.
+--------------------------------------------------------------------------------
+
+Q81: What PG programs does KIIT offer?
+A81: KIIT offers M.Tech (36 specializations), MBA (10 specializations), MCA, M.Sc (13 specializations), MD (19 specializations), MDS (9 specializations), and M.Lib.I.Sc programs.
+--------------------------------------------------------------------------------
+
+Q82: Does KIIT offer PhD programs?
+A82: Yes, KIIT offers PhD programs (38 courses) in various disciplines. Full-time PhD scholars receive a stipend of INR 20,000 per month and contingency fund of INR 50,000.
+--------------------------------------------------------------------------------
+
+Q83: What is the Choice Based Credit System at KIIT?
+A83: KIIT follows Choice Based Credit System (CBCS) as per UGC guidelines, allowing students to select core, elective, and minor courses based on their interest, aptitude, and career goals.
+--------------------------------------------------------------------------------
+
+Q84: What is the academic calendar at KIIT?
+A84: KIIT follows a semester system. Typically, Semester 1 ends in January and Semester 2 ends in May, which is faster compared to other colleges.
+--------------------------------------------------------------------------------
+
+Q85: What is the class size at KIIT?
+A85: The maximum class size at KIIT is around 60 students, providing a better faculty-student ratio compared to other colleges.
+--------------------------------------------------------------------------------
+
+Q86: What is the teaching methodology at KIIT?
+A86: KIIT uses project-based learning with classroom lectures, live industry projects, case studies, simulations, role plays, seminars, group discussions, field activities, industrial visits, and reverse teaching methods.
+--------------------------------------------------------------------------------
+
+Q87: What facilities does School of Biotechnology have?
+A87: KIIT School of Biotechnology offers B.Tech + M.Tech dual degree (5 years), has modern labs, achieved 85% placement with 43+ companies recruiting, and focuses on research in biogenic nanostructures and biomolecules.
+--------------------------------------------------------------------------------
+
+Q88: Tell me about Computer Science programs at KIIT
+A88: KIIT School of Computer Engineering offers B.Tech in 8+ CSE specializations, MCA, M.Tech, and PhD programs. It has cutting-edge labs, experienced faculty, and strong placement records with top tech companies.
+--------------------------------------------------------------------------------
+
+Q89: What does School of Mechanical Engineering offer?
+A89: KIIT School of Mechanical Engineering offers B.Tech, B.Tech Lateral Entry, M.Tech, and PhD in Mechanical, Automobile, and Aerospace Engineering. It has advanced labs including CIM, Robotics, Mercedes Benz Automotive Lab, and Composite Research Lab.
+--------------------------------------------------------------------------------
+
+Q90: What programs does School of Electrical Engineering have?
+A90: KIIT School of Electrical Engineering offers B.Tech in Electrical, Electrical & Computer, and Electronics & Electrical Engineering. It has modern labs for electrical machines, power systems, and Schneider Electrical Lab.
+--------------------------------------------------------------------------------
+
+Q91: What is campus life like at KIIT?
+A91: KIIT campus life includes 100+ events annually, active student societies, sports activities, cultural fests, technical competitions, guest lectures, workshops, and diverse food options. Students have access to modern facilities and a vibrant multicultural environment.
+--------------------------------------------------------------------------------
+
+Q92: What food courts are available at KIIT?
+A92: KIIT has 15 food courts specializing in cuisines from different parts of the world, serving Odia, South Indian, Chinese, Continental, and international dishes. There are also 20+ canteens attached to hostels.
+--------------------------------------------------------------------------------
+
+Q93: Are there medical facilities at KIIT?
+A93: Yes, KIIT has Kalinga Institute of Medical Sciences (KIMS) - a 2,600-bedded state-of-the-art hospital with super-specialty center and cancer care facility. Ambulance services are available 24/7 for emergencies.
+--------------------------------------------------------------------------------
+
+Q94: What gym facilities are available?
+A94: KIIT has 12+ sports complexes with multi-station gyms (15-station Multi-gym), health clubs, yoga centers, and fitness facilities distributed across different campuses.
+--------------------------------------------------------------------------------
+
+Q95: Does KIIT have swimming pools?
+A95: Yes, KIIT has multiple swimming pools including an Olympic-size outdoor pool and swimming pools in 12 sports complexes across different campuses.
+--------------------------------------------------------------------------------
+
+Q96: What are KP hostels at KIIT?
+A96: KP stands for King's Palace - the boys' hostels at KIIT. First-year boys are generally allotted KP-7. Hostels can be changed after completion of first year.
+--------------------------------------------------------------------------------
+
+Q97: What are QC hostels at KIIT?
+A97: QC stands for Queen's Castle - the girls' hostels at KIIT. They provide safe, secure accommodation with separate mess and dining facilities.
+--------------------------------------------------------------------------------
+
+Q98: What are hostel room options at KIIT?
+A98: KIIT offers AC and non-AC rooms with single, double, and triple sharing options. Non-AC triple sharing rooms cost around INR 21,000 per semester, while AC rooms range from INR 30,000 to 50,000 per semester.
+--------------------------------------------------------------------------------
+
+Q99: Can I switch from non-AC to AC room?
+A99: Yes, students can submit a request to switch from non-AC to AC room or vice-versa at the end of the first year.
+--------------------------------------------------------------------------------
+
+Q100: What is the hostel food menu at KIIT?
+A100: KIIT hostel mess follows a proper menu that includes breakfast, lunch, dinner, and snacks. Both vegetarian and non-vegetarian options are available with non-veg meals up to 4 times a week. Special menus are arranged on festivals like Diwali, Holi, etc.
+--------------------------------------------------------------------------------
+
+Q101: What is KIIT Stadium?
+A101: KIIT Stadium is an international standard facility sprawling over 29 acres with 20,000 seating capacity for cricket (BCCI approved with turf wickets and floodlights), 5,000 for hockey (FIH certified astroturf), and 3,000 for football/rugby. It hosts Ranji Trophy matches.
+--------------------------------------------------------------------------------
+
+Q102: What is Biju Patnaik Indoor Stadium?
+A102: Biju Patnaik Indoor Stadium at KIIT is a multipurpose hall with 100M x 53M area, having FIVB, FIBA & BWF approved wooden flooring. It accommodates 2 handball courts, 4 volleyball courts, 4 basketball courts, 25 badminton courts, facilities for wrestling, judo, shooting, weightlifting, and fencing.
+--------------------------------------------------------------------------------
+
+Q103: What digital resources does KIIT library have?
+A103: KIIT library provides access to 17 e-databases including Business Source Complete (EBSCO), Emerald, ABI/INFORM Complete (ProQuest), Taylor & Francis, with 12,000+ e-journals, 4.3+ million theses and dissertations, and e-books accessible 24x7.
+--------------------------------------------------------------------------------
+
+Q104: What happens during KIIT counselling?
+A104: During KIIT counselling, students need to pay INR 75,000 (including INR 10,000 counselling fee) to confirm their seat. Students receive a laptop along with academic tools. Balance fee is paid on reporting day. Only counselling fee (INR 10,000) is non-refundable.
+--------------------------------------------------------------------------------
+
+Q105: When does KIIT admission start?
+A105: KIIT admission typically starts in November with KIITEE registration. Applications are accepted throughout the year for various courses. Check kiitee.kiit.ac.in for latest updates.
+--------------------------------------------------------------------------------
+
+Q106: What documents are required for KIIT admission?
+A106: For KIIT admission, required documents include 10th & 12th mark sheets, passport-size photographs, Aadhar card, category certificate (if applicable), transfer certificate, migration certificate, and entrance exam scorecard.
+--------------------------------------------------------------------------------
+
+Q107: What is KIIT B.Tech placement percentage?
+A107: KIIT School of Technology achieved placement of 3,125+ students with 1,500 dream offers (average INR 8.5 LPA) out of eligible students in 2024. Around 80+ companies offered packages above INR 10 LPA.
+--------------------------------------------------------------------------------
+
+Q108: How many students get internships at KIIT?
+A108: In 2024, over 1,500 students received paid internships, and 2,100 students got summer internships through Capstone Project approach at KIIT.
+--------------------------------------------------------------------------------
+
+Q109: Which company hired most students from KIIT?
+A109: Capgemini made 346 rolling offers, making it the top recruiter at KIIT in 2024, followed by Bosch Global Software, HighRadius (185+ offers), and Deloitte (148 offers).
+--------------------------------------------------------------------------------
+
+Q110: Is KIIT a good university?
+A110: Yes, KIIT is one of India's top private universities ranked 17th among universities by NIRF 2025, with A++ NAAC grade, QS 5 Stars rating, and recognized globally. It has excellent faculty, infrastructure, placements (83% placement rate, INR 53 LPA highest package), and over 700 companies recruiting annually.
+--------------------------------------------------------------------------------
+
+Q111: Should I choose KIIT or other private universities?
+A111: KIIT offers several advantages: NAAC A++ grade, NIRF Rank 17, 83% placement rate, 700+ recruiting companies, highest package INR 53 LPA, state-of-the-art infrastructure, international exposure with 162 university partnerships, strong research output, and vibrant campus life. Compare these factors with other options.
+--------------------------------------------------------------------------------
+
+Q112: Is KIIT worth the fees?
+A112: KIIT fees are competitive considering the facilities, placement support, international exposure, experienced faculty, modern infrastructure, and strong alumni network. With 83% placement rate and average packages of INR 8.5 LPA (B.Tech) and INR 9 LPA (MBA), the ROI is reasonable though varies by program.
+--------------------------------------------------------------------------------
+
+Q113: How is student life at KIIT?
+A113: Student life at KIIT is vibrant with 100+ annual events, 25+ student societies covering drama, music, dance, quizzing, tech, sports, and social work. There's KIIT FEST (3-day techno-cultural fest), Kalinga Film Festival, excellent sports facilities, diverse food options, and a multicultural environment with students from 65 countries.
+--------------------------------------------------------------------------------
+
+Q114: KIIT vs VIT - which is better?
+A114: Both are top private universities. KIIT (NIRF Rank 17) and VIT have strong placements. KIIT has 700+ companies, INR 53 LPA highest package, 83% placement. Consider factors like location (Bhubaneswar vs Vellore), fee structure, specific program strengths, campus culture, and personal preferences.
+--------------------------------------------------------------------------------
+
+Q115: What makes KIIT different from other universities?
+A115: KIIT stands out with: (1) Founder's inspiring story - started with Rs 5000, (2) KISS - free education for 80,000 tribal students, (3) Strong entrepreneurship support via KIIT-TBI (482 startups nurtured), (4) International exposure (65 countries represented), (5) Research excellence (12,750+ publications), (6) Student-centric governance.
+--------------------------------------------------------------------------------
+
+Q116: Is KIIT good for Computer Science?
+A116: Yes, KIIT is excellent for Computer Science. The School of Computer Engineering offers 8+ CSE specializations including AI, ML, Cyber Security, Data Science, IoT. Strong placements with Amazon, Microsoft, Deloitte, and other tech giants. State-of-the-art labs and experienced faculty with focus on practical learning.
+--------------------------------------------------------------------------------
+
+Q117: Should I take B.Tech in Aerospace Engineering at KIIT?
+A117: KIIT offers B.Tech Aerospace Engineering with modern labs including Aerodynamics & Propulsion Lab. The fee is INR 14.91 Lakhs for 4 years (lower than CSE). Placements are good with opportunities in aerospace and defense sectors. KIIT has collaborations with industries for practical exposure.
+--------------------------------------------------------------------------------
+
+Q118: How is MBA at KIIT?
+A118: KIIT School of Management offers MBA with 10 specializations. In 2024: 170+ companies visited, highest package INR 19.35 LPA, average INR 9 LPA, 331+ offers. Fee is INR 13.9 Lakhs for 2 years. Strong industry connections, case-study based learning, and good ROI.
+--------------------------------------------------------------------------------
+
+Q119: Can I get a scholarship at KIIT?
+A119: Yes, KIIT offers multiple scholarships: KIITEE Merit Scholarship (INR 10,000/month for top 1000 ranks), Merit Scholarship for GPA toppers, Tuition Fee Waiver for BPL card holders, poverty-cum-merit scholarships, teaching assistantships, and PhD scholarships (INR 20,000/month). You can also apply for government scholarships.
+--------------------------------------------------------------------------------
+
+Q120: Does KIIT help with education loans?
+A120: Yes, KIIT facilitates education loans through tie-ups with various banks, offering easy loan access to students. Students can approach the finance office for guidance on loan procedures and documentation.
+--------------------------------------------------------------------------------
+
+Q121: What is the refund policy at KIIT?
+A121: During counselling, students pay INR 75,000 (INR 10,000 counselling fee + INR 65,000). Only the counselling fee of INR 10,000 is non-refundable. The remaining INR 65,000 is refunded as per KIIT's refund policy if admission is cancelled.
+--------------------------------------------------------------------------------
+
+Q122: How can international students apply to KIIT?
+A122: International students can apply through KIIT International Admissions Portal. Steps: (1) Create account and verify email, (2) Fill application form with personal and educational details, (3) Upload documents (passport, academic transcripts, photo, English proficiency proof if applicable), (4) Submit application, (5) Await review, (6) Receive offer letter, (7) Confirm admission, (8) Apply for student visa.
+--------------------------------------------------------------------------------
+
+Q123: What support does KIIT provide to international students?
+A123: KIIT provides: KIIT International Student Society, airport pickup assistance, orientation programs, India Trek (cultural immersion), multicultural festivals, internship opportunities, 24/7 student support, dedicated international relations office, and a home-away-from-home environment. Contact: [email protected] or +91 9873666072.
+--------------------------------------------------------------------------------
+
+Q124: What is the accommodation cost for international students?
+A124: International students at KIIT pay annual registration fee of USD 500 and approximately USD 2,000 for AC hostel and food annually. Students are responsible for airfare, visa fees, medical insurance, and personal expenses.
+--------------------------------------------------------------------------------
+
+Q125: Is KIIT campus safe?
+A125: Yes, KIIT campus is safe with 24/7 CCTV surveillance, security personnel, strict anti-ragging policies, separate hostels for boys and girls, hostel wardens, medical facilities including KIMS hospital on campus, and ambulance services available on-call for emergencies.
+--------------------------------------------------------------------------------
+
+Q126: Does KIIT have ragging?
+A126: No, KIIT has strict anti-ragging policies and has an Anti-Ragging Committee. The institution has zero-tolerance towards ragging and takes strict action against any such incidents. Students can report to the grievance portal (SGRC) or UGC e-Samadhan Portal.
+--------------------------------------------------------------------------------
+
+Q127: What is the weather like in Bhubaneswar?
+A127: Bhubaneswar has a tropical climate. Summers (March-June) are hot and humid (35-45°C), monsoons (July-September) bring heavy rainfall, and winters (November-February) are pleasant (10-25°C). All KIIT classrooms, libraries, and many hostels have AC facilities.
+--------------------------------------------------------------------------------
+
+Q128: Can I play sports at KIIT?
+A128: Absolutely! KIIT has excellent sports facilities including a 29-acre stadium, Biju Patnaik Indoor Stadium, 12 sports complexes with swimming pools, and facilities for cricket, hockey, football, basketball, badminton, volleyball, table tennis, chess, athletics, and 25+ other sports. KIIT has produced Olympic, Asian Games, and Commonwealth Games participants.
+--------------------------------------------------------------------------------
+
+Q129: What technical clubs are there at KIIT?
+A129: KIIT has technical societies including Konnexions (IT & Web Development), Robotics clubs, coding clubs, IEEE chapters, and various department-specific technical societies that organize workshops, competitions, hackathons, and technical fests.
+--------------------------------------------------------------------------------
+
+Q130: Can I pursue music or arts at KIIT?
+A130: Yes! KIIT has Korus (Music & Dance Society), Kalakaar (Drama Society), Kreative Eye (Photography & Painting), Kraftovity (Arts & Crafts), and SPIC MACAY (Indian Classical Music & Culture). Students can audition and join these societies.
+--------------------------------------------------------------------------------
+
+Q131: Does KIIT provide career counseling?
+A131: Yes, KIIT has KIIT Kareer School and Student Counselling Cell that provide career guidance, placement training, personality development, skill enhancement workshops, mock interviews, aptitude training, and mental health support.
+--------------------------------------------------------------------------------
+
+Q132: What is KIIT's alumni network like?
+A132: KIIT has a strong global alumni network with former students in top positions at companies like Reliance, Microsoft, HDFC, TCS, Amazon, and many successful entrepreneurs. Alumni chapters exist in various locations and actively engage with current students through mentoring and networking events.
+--------------------------------------------------------------------------------
+
+Q133: Does KIIT provide laptops to students?
+A133: Yes, during the counselling process, students receive a laptop along with other academic tools and resources as part of the admission package.
+--------------------------------------------------------------------------------
+
+Q134: What is the internet speed at KIIT?
+A134: KIIT provides round-the-clock high-speed internet connectivity across all campuses and hostels. However, some students have reported speeds of 30-40 Mbps with occasional connectivity issues in hostels.
+--------------------------------------------------------------------------------
+
+Q135: Does KIIT have online learning platforms?
+A135: Yes, KIIT uses various online learning platforms including SAP Portal for academics, library web portal for e-resources, and digital learning management systems for course materials, assignments, and online classes when needed.
+--------------------------------------------------------------------------------
+
+Q136: What is the attendance requirement at KIIT?
+A136: KIIT requires a minimum attendance percentage (typically 75%) for students to be eligible for semester examinations. However, students under special circumstances (like those running startups or having medical issues) can apply for attendance relaxation with proper documentation.
+--------------------------------------------------------------------------------
+
+Q137: Are mobile phones allowed in KIIT hostels?
+A137: Yes, mobile phones are allowed in KIIT hostels. Students can use them for academic purposes, communication, and personal use. However, there are designated quiet hours, and responsible usage is expected.
+--------------------------------------------------------------------------------
+
+Q138: What is the dress code at KIIT?
+A138: KIIT generally has a formal/semi-formal dress code during academic hours. Students are expected to dress decently and appropriately. Specific programs or events may have additional requirements.
+--------------------------------------------------------------------------------
+
+Q139: What labs does Mechanical Engineering have?
+A139: KIIT School of Mechanical Engineering has: Advanced Manufacturing Processes Lab, Advanced Reliability Center, Composites Development & Characterization Lab, Computational Laboratory, Green Engine Technology Centre, Metrology & Instrumentation Lab, NI Innovation Centre, Production Research Lab, CIM & Robotics Lab, Automobile Maintenance Lab, and Central Workshop.
+--------------------------------------------------------------------------------
+
+Q140: What specializations are in M.Tech at KIIT?
+A140: KIIT offers M.Tech in 36 specializations across various disciplines including Computer Science, Electronics, Mechanical, Civil, Electrical, Biotechnology, and others. Duration is 2 years with fees ranging from INR 5.63 to 12.95 Lakhs.
+--------------------------------------------------------------------------------
+
+Q141: Does KIIT offer BCA program?
+A141: Yes, KIIT offers BCA (Bachelor of Computer Applications) as a 3-year undergraduate program. It covers computer science fundamentals, programming, software development, and database management.
+--------------------------------------------------------------------------------
+
+Q142: What is KIIT's THE Impact ranking?
+A142: KIIT is ranked in the 101-200 cohort globally in Times Higher Education Impact Rankings 2025. It achieved 1st position in India for SDG10 (Reducing Inequalities) and SDG16 (Peace and Justice), 3rd for SDG4 (Quality Education), and 19th for SDG17 (Partnerships for Goals).
+--------------------------------------------------------------------------------
+
+Q143: Has KIIT won any international awards?
+A143: Yes, KIIT won THE Awards Asia for Leadership and Management Team of the Year. It's the only university from India to receive this award. KIIT is also India's first QS 5 Stars rated university and recognized globally for its pandemic response and relief work.
+--------------------------------------------------------------------------------
+
+Q144: When is KIIT FEST held?
+A144: KIIT FEST is a 3-day annual techno-cultural festival usually held in December (typically mid-December). It's one of the largest festivals in Eastern India with 25,000+ participants and 100+ events including technical competitions, cultural programs, celebrity performances, and workshops.
+--------------------------------------------------------------------------------
+
+Q145: What is Kalinga Global Film Festival?
+A145: Kalinga Global Film Festival (KGFF) is an annual film festival organized by KIIT in December. The 5th edition in 2024 showcased 45 films including 12 feature films, 18 short films, 5 documentaries, and 10 student films. It brings renowned filmmakers, producers, actors, and industry experts to KIIT campus.
+--------------------------------------------------------------------------------
+
+Q146: What is KI3 Fest?
+A146: KI3 Fest stands for Idea, Innovation, and Impact. It's organized by Dean's Gold Klub in collaboration with IQAC, SRC, CRF, KSAC, and IE. The theme is 'Frontier Technologies for Viksit Bharat @ 2047' showcasing student innovations, projects, and entrepreneurial ventures.
+--------------------------------------------------------------------------------
+
+Q147: What is KIMS hospital?
+A147: Kalinga Institute of Medical Sciences (KIMS) is a 2,600-bedded state-of-the-art multi-specialty hospital on KIIT campus. It includes a super-specialty center, cancer care hospital, dental clinic, and nursing college, providing comprehensive healthcare to students, staff, and the community.
+--------------------------------------------------------------------------------
+
+Q148: What medical courses does KIIT offer?
+A148: KIIT offers MBBS (fee: INR 74.91 Lakhs), BDS, B.Sc Nursing (4 years), MD (19 specializations), MDS (9 specializations), M.Ch, DM, and various paramedical courses through KIMS, KIDS, and KINS.
+--------------------------------------------------------------------------------
+
+Q149: Are emergency medical services available at KIIT?
+A149: Yes, KIIT has 24/7 ambulance services available on-call for medical emergencies. KIMS hospital is located on campus providing immediate medical attention for students and staff.
+--------------------------------------------------------------------------------
+
+Q150: How do I reach KIIT from Bhubaneswar railway station?
+A150: From Bhubaneswar railway station (10-12 km away), you can take: (1) Auto-rickshaw (INR 200-300), (2) Ola/Uber cab (INR 150-250), (3) Local bus to Patia/KIIT, or (4) KIIT may provide pickup for newly admitted students during reporting. Journey takes 30-45 minutes depending on traffic.
+--------------------------------------------------------------------------------
+
+Q151: Is KIIT in the city or outskirts?
+A151: KIIT is located in Patia area, which is in the outskirts of Bhubaneswar city, away from the main city center. This provides a peaceful academic environment while being well-connected to the city. Nearby areas include Chandaka Industrial Estate, Infocity, and Damana Chowk.
+--------------------------------------------------------------------------------
+
+Q152: What shopping facilities are near KIIT?
+A152: Near KIIT, there are local markets, shops, and malls. Students can access shopping areas at KIIT Road, Damana Chowk, and Patia. For bigger shopping needs, major malls and markets in Bhubaneswar city center are 30-45 minutes away.
+--------------------------------------------------------------------------------
+
+Q153: How do I pay fees at KIIT?
+A153: KIIT fees can be paid online through the SAP Portal using credit/debit cards, net banking, or UPI. Fee payment details are communicated through email. During admission, initial payment is required through demand draft or online transfer. Students can also pay at KIIT campus through designated fee counters.
+--------------------------------------------------------------------------------
+
+Q154: What is included in B.Tech fee at KIIT?
+A154: B.Tech fee includes tuition fee, registration fee, exam fee, and miscellaneous charges. The laptop is provided during admission. Hostel fee (INR 80,000/year) is separate. Mess fee is generally included in hostel charges.
+--------------------------------------------------------------------------------
+
+Q155: Are there any hidden charges at KIIT?
+A155: The fee structure is transparent. Main costs: Tuition fee, hostel fee (INR 80,000/year), one-time counselling fee (INR 10,000 non-refundable), one-time hostel admission fee (INR 15,000). Additional expenses may include books, personal expenses, and optional activities. No major hidden charges reported.
+--------------------------------------------------------------------------------
+
+Q156: What is the CGPA requirement for scholarship at KIIT?
+A156: For KIITEE Merit Scholarship, students need to maintain a specified CGPA (typically above 7.5-8.0) along with minimum attendance to continue receiving INR 10,000/month scholarship. Academic performance scholarships are given to top 3 GPA holders each semester.
+--------------------------------------------------------------------------------
+
+Q157: Can I change my branch after first year at KIIT?
+A157: Branch change policies at KIIT are based on academic performance and availability of seats. Students with excellent CGPA in first year may apply for branch change subject to meeting eligibility criteria and departmental approval. Contact academic office for specific guidelines.
+--------------------------------------------------------------------------------
+
+Q158: Does KIIT allow backlog students?
+A158: KIIT has provisions for students with backlogs. Students need to clear backlogs through supplementary examinations. However, having multiple backlogs may affect placement eligibility, scholarship continuation, and progression to next semester. Academic counseling is provided to help students clear backlogs.
+--------------------------------------------------------------------------------
+
+Q159: Does KIIT have industry partnerships?
+A159: Yes, KIIT has partnerships with 18+ companies for Centers of Excellence including SKF, Mercedes Benz, Schneider Electric, National Instruments, ISRO, and others. These partnerships provide students with hands-on training, live projects, internships, and employment opportunities.
+--------------------------------------------------------------------------------
+
+Q160: What is ISRO-KIIT Satellite Centre?
+A160: ISRO-KIIT Satellite Centre is a Center of Excellence established in collaboration with Indian Space Research Organisation. It focuses on space technology research, satellite systems, and provides students opportunities to work on space-related projects and research.
+--------------------------------------------------------------------------------
+
+Q161: Are industrial visits organized at KIIT?
+A161: Yes, KIIT organizes regular industrial visits, plant tours, and industry interactions as part of the curriculum. Students visit manufacturing plants, IT companies, research labs, and other industrial establishments to gain practical exposure and understand real-world applications.
+--------------------------------------------------------------------------------
+
+Q162: What is The Learning Development Center at KIIT?
+A162: The Learning Development Center at KIIT provides academic support, skill development workshops, language training, soft skills development, personality enhancement programs, and remedial classes to help students excel in their studies and career.
+--------------------------------------------------------------------------------
+
+Q163: Does KIIT have a grievance redressal system?
+A163: Yes, KIIT has Student Grievance Redressal Cell (SGRC) accessible through a dedicated portal. Students can register complaints online regarding academic, administrative, or personal issues. KIIT also has Internal Complaints Committee, Anti-Ragging Committee, and connections to UGC e-Samadhan Portal.
+--------------------------------------------------------------------------------
+
+Q164: What counseling services are available?
+A164: KIIT has Student Counselling Cell providing: (1) Academic counseling, (2) Career guidance, (3) Personal counseling, (4) Mental health support, (5) Stress management, (6) COVID-19 counseling. The service is confidential and helps students with emotional, psychological, and adjustment issues.
+--------------------------------------------------------------------------------
+
+Q165: What is Earn While You Learn at KIIT?
+A165: KIIT's Earn While You Learn scheme allows students to take up part-time work, internships, teaching assistantships, or work on startups while studying. M.Tech students can earn through Teaching Assistantship in the living learning programme, supplementing income while gaining teaching experience.
+--------------------------------------------------------------------------------
+
+Q166: Does KIIT offer online degree programs?
+A166: Yes, KIIT offers online degree programs through KIIT University Online including B.Com, M.Com (International Business), M.Com (Accountancy), and MA Economics. These are UGC-approved online programs suitable for working professionals.
+--------------------------------------------------------------------------------
+
+Q167: What is the Tutor Mentor Scheme at KIIT?
+A167: The Tutor Mentor Scheme at KIIT assigns faculty mentors to small groups of students. Mentors provide academic guidance, personal counseling, career advice, and help students with course selection, project work, and overall development throughout their academic journey.
+--------------------------------------------------------------------------------
+
+Q168: How can I publish research papers at KIIT?
+A168: KIIT encourages students to write and present research papers. The Student Research Cell supports innovative research, provides financial support to participate in conferences, and helps with paper submissions to journals. Faculty mentors guide students in research methodology, paper writing, and publication process.
+--------------------------------------------------------------------------------
+
+Q169: Does KIIT fund conference participation?
+A169: Yes, KIIT provides financial support to students for presenting papers at national and international conferences. Students need to apply through proper channels with paper acceptance proof, and the university sponsors travel, registration, and accommodation expenses.
+--------------------------------------------------------------------------------
+
+Q170: What is KIIT Review?
+A170: KIIT Review is likely the institution's research publication or academic journal showcasing research work by faculty and students. It may feature research articles, case studies, and academic contributions from various disciplines.
+--------------------------------------------------------------------------------
+
+Q171: What makes KIIT unique in India?
+A171: KIIT is unique for: (1) Founder's inspiring journey from poverty to creating two world-class institutions, (2) Running KISS - world's largest residential tribal school with 80,000 free students, (3) Starting with Rs 5000 to becoming premier university in 25 years, (4) Student-centric governance, (5) Strong entrepreneurship ecosystem with 482 startups nurtured, (6) Zero-tolerance for corruption and transparent operations.
+--------------------------------------------------------------------------------
+
+Q172: What is KIIT's relationship with KISS?
+A172: KIIT and KISS were both founded by Dr. Achyuta Samanta. While KIIT is a fee-based deemed university, KISS provides completely free education, boarding, healthcare, and vocational training to 80,000 tribal and disadvantaged students. Both operate as sister institutions sharing the vision of education for all.
+--------------------------------------------------------------------------------
+
+Q173: What languages are spoken at KIIT?
+A173: English is the primary medium of instruction at KIIT. Students speak various Indian languages including Hindi, Odia, Telugu, Tamil, Bengali, etc. With 2,000+ international students from 65 countries, it's a multilingual environment. Faculty and staff are multilingual and helpful.
+--------------------------------------------------------------------------------
+
+Q174: Is KIIT a ragging-free campus?
+A174: Yes, KIIT is a ragging-free campus with strict anti-ragging policies and active Anti-Ragging Committee. KIIT has zero-tolerance towards ragging. Students can report any incidents confidentially through multiple channels including UGC Anti-Ragging Helpline.
+--------------------------------------------------------------------------------
+
+Q175: How diverse is KIIT student population?
+A175: KIIT is highly diverse with 40,000+ students from all Indian states and 65 countries. It has students from various religions, cultures, socio-economic backgrounds, and nationalities creating a truly multicultural learning environment with international festivals and cultural exchange programs.
+--------------------------------------------------------------------------------
+
+Q176: What is the examination pattern at KIIT?
+A176: KIIT follows semester system with mid-semester and end-semester examinations. Evaluation includes internal assessments (assignments, quizzes, presentations, projects) and external examinations. Credit-based system allows flexibility. Question papers have multiple choice and descriptive questions depending on course.
+--------------------------------------------------------------------------------
+
+Q177: How is grading done at KIIT?
+A177: KIIT uses a grade point system (typically 10-point scale). CGPA (Cumulative Grade Point Average) and SGPA (Semester Grade Point Average) are calculated based on performance in courses. Grading is transparent with grades published online through SAP portal.
+--------------------------------------------------------------------------------
+
+Q178: What soft skills training does KIIT provide?
+A178: KIIT provides comprehensive soft skills training through: Communication skills workshops, Personality development programs, Leadership training, Group discussion and interview preparation, Presentation skills, Business etiquette, Time management, Team building activities, and English language proficiency courses.
+--------------------------------------------------------------------------------
+
+Q179: Does KIIT help with interview preparation?
+A179: Yes, KIIT Kareer School conducts mock interviews, aptitude tests, group discussions, and interview skills workshops. Companies also conduct pre-placement talks. Students receive training on resume writing, technical interview preparation, HR interviews, and industry-specific skill development.
+--------------------------------------------------------------------------------
+
+Q180: What is project-based learning at KIIT?
+A180: KIIT's project-based learning combines classroom theory with practical application through: Live industry projects, Case study presentations, Simulations and role plays, Field activities and surveys, Research projects, Industrial visits, Capstone projects, Mini projects (each semester), and Major projects (final year).
+--------------------------------------------------------------------------------
+
+Q181: Does KIIT have innovation labs?
+A181: Yes, KIIT has innovation labs, maker spaces, and research facilities in CRF (Central Research Facility) and KIIT-TBI. Students can access 3D printing, prototyping equipment, electronics labs, and software tools to develop innovative projects and products. Design Thinking Lab encourages creative problem-solving.
+--------------------------------------------------------------------------------
+
+Q182: What is the cost of living at KIIT?
+A182: At KIIT, hostel fee is INR 80,000/year (includes mess). Personal expenses (around INR 3,000-5,000/month) depend on lifestyle. Total annual cost: Tuition (INR 3-5 Lakhs for most programs) + Hostel (INR 80,000) + Personal expenses (INR 36,000-60,000) = INR 4.16-6.4 Lakhs approximately.
+--------------------------------------------------------------------------------
+
+Q183: Can I stay outside hostel at KIIT?
+A183: KIIT has hostel facilities for students and generally encourages hostel stay for better academic environment and security. However, students can apply for permission to stay outside campus with proper documentation and parental consent. Day scholars commute from nearby areas.
+--------------------------------------------------------------------------------
+
+Q184: What festivals are celebrated at KIIT?
+A184: KIIT celebrates all major festivals including Diwali, Holi, Eid, Christmas, Durga Puja, Ganesh Chaturthi, with special mess menus, cultural programs, and decorations. International festivals like Chinese New Year are also celebrated. Republic Day, Independence Day are commemorated with patriotic fervor.
+--------------------------------------------------------------------------------
+
+Q185: Does KIIT organize cultural nights?
+A185: Yes, KIIT regularly organizes cultural nights, music concerts, dance performances, celebrity visits, and entertainment events during KIIT FEST and throughout the year. Various student societies (Korus, Kalakaar) perform regularly at campus events and competitions.
+--------------------------------------------------------------------------------
+
+Q186: Is KIIT environment-friendly?
+A186: Yes, KIIT focuses on sustainability with green campus initiatives, tree plantations, waste management systems, and environmental awareness programs. KIIT Animal & Environment Welfare Society works for environmental protection. The campus has extensive green cover and gardens.
+--------------------------------------------------------------------------------
+
+Q187: What social initiatives does KIIT support?
+A187: KIIT supports various social initiatives through: KISS (free education for 80,000 tribal students), NSS (National Service Scheme) activities, Rotaract club community service, Enactus social entrepreneurship projects, Village adoption programs, Health camps, Blood donation drives, and Environmental conservation programs.
+--------------------------------------------------------------------------------
+
+Q188: How does KIIT engage with alumni?
+A188: KIIT has dedicated Alumni Relations office organizing alumni meets (Kamyaab), chapter meetings in different cities, networking events, mentorship programs, and alumni-student interactions. Alumni contribute through campus recruitment, guest lectures, financial support, and industry connections.
+--------------------------------------------------------------------------------
+
+Q189: Can alumni access KIIT facilities?
+A189: Yes, KIIT alumni can access campus facilities during visits with proper identification. They can visit library, sports facilities, and attend special events. Alumni cards may provide specific benefits. Contact Alumni Relations office for current policies and access procedures.
+--------------------------------------------------------------------------------
+
+Q190: How did KIIT handle COVID-19?
+A190: KIIT received THE Awards Asia for exceptional pandemic response. Initiatives included: Online classes through digital platforms, COVID-19 counseling services, Distribution of food and essentials to students, Healthcare support through KIMS, Community relief work, Safety protocols on campus, Hybrid learning options.
+--------------------------------------------------------------------------------
+
+Q191: Does KIIT have online learning capabilities?
+A191: Yes, KIIT successfully conducted online classes during pandemic and has infrastructure for hybrid/blended learning. LMS (Learning Management System), video conferencing facilities, and digital content delivery ensure continuity of education during emergencies.
+--------------------------------------------------------------------------------
+
+Q192: What is Kalarabanka Smart Village?
+A192: Kalarabanka is Dr. Achyuta Samanta's native village in Cuttack district which he transformed into India's Smart Village and model Panchayat. It demonstrates his philosophy of giving back to society and rural development. Students can visit for rural management field work.
+--------------------------------------------------------------------------------
+
+Q193: What is Democracy without Borders?
+A193: Democracy without Borders is an international initiative. Dr. Achyuta Samanta serves as Designated President (India) of this organization working for democratic values, global cooperation, and inclusive governance.
+--------------------------------------------------------------------------------
+
+Q194: Does KIIT have a radio station?
+A194: Yes, KIIT has Kalinga Bharti FM, a community radio station that broadcasts educational programs, entertainment, news, and student-produced content serving the campus and surrounding community.
+--------------------------------------------------------------------------------
+
+Q195: What is KIIT Polytechnic?
+A195: KIIT Polytechnic is a separate institution under KIIT Society offering diploma courses in engineering and technology. It provides vocational and technical education preparing students for industry or further studies.
+--------------------------------------------------------------------------------
+
+Q196: What is KIIT International School?
+A196: KIIT International School (KIIS) is a CBSE-affiliated school under KIIT Society providing quality K-12 education. Many KIIS students progress to KIIT University for higher education.
+--------------------------------------------------------------------------------
+
+Q197: How many campuses does KIIT have?
+A197: KIIT has 23 campuses spread across 36 square kilometers (8,900 acres) in Bhubaneswar. Each campus is named after famous rivers of India and has its own distinctive character with state-of-the-art facilities.
+--------------------------------------------------------------------------------
+
+Q198: What is KIIT's acceptance rate?
+A198: KIIT's exact acceptance rate varies by program. With 2-3 lakh applicants for KIITEE and limited seats, it's competitive. B.Tech has higher selectivity for popular branches like CSE. Good KIITEE rank or JEE score improves admission chances.
+--------------------------------------------------------------------------------
+
+Q199: Is KIIT a deemed university or private university?
+A199: KIIT is a deemed university (deemed to be university) granted status under Section 3 of UGC Act, 1956 by Ministry of HRD (now Education), Govt. of India in 2004. It has the academic status equivalent to a university but is privately managed.
+--------------------------------------------------------------------------------
+
