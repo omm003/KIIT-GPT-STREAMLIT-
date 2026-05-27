@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer
 from backend import search
 
 # OLLAMA_URL = "http://localhost:11434/api/generate"
-# MODEL_NAME = "llama3
+# MODEL_NAME = "llama3"
 from groq import Groq
 import os
 
@@ -143,7 +143,8 @@ Assistant:
     try:
 
         response = client.chat.completions.create(
-            model="llama3-8b-8192",
+            # model="llama3-8b-8192",
+            model="llama-3.3-70b-versatile",
             messages=[
                 {
                     "role": "user",
