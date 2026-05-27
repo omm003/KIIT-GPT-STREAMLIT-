@@ -1,2 +1,12 @@
 streamlit
+watchdog
+requests
 PyPDF2
+numpy
+faiss-cpu
+sentence-transformers
+torch
+transformers
+scikit-learn
+scipy
+pandas
