@@ -10,3 +10,4 @@ transformers
 scikit-learn
 scipy
 pandas
+groq
